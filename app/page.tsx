@@ -97,22 +97,22 @@ export default function LandingPage() {
             <div className="flex items-center gap-2 text-sm text-gray-400">
               <div className="flex -space-x-2">
                 <img
-                  src="images/uzbek-user1.jpg"
+                  src="https://www.shutterstock.com/image-photo/close-portrait-young-beautiful-brunette-260nw-2294506443.jpg"
                   alt="O'zbek foydalanuvchi 1"
                   className="w-8 h-8 rounded-full border-2 border-primary object-cover"
                 />
                 <img
-                  src="images/uzbek-user2.jpg"
+                  src="https://www.shutterstock.com/image-photo/uzbek-man-modern-smiling-260nw-2647480371.jpg"
                   alt="O'zbek foydalanuvchi 2"
                   className="w-8 h-8 rounded-full border-2 border-blue-500 object-cover"
                 />
                 <img
-                  src="images/uzbek-user3.jpg"
+                  src="https://www.shutterstock.com/image-photo/young-uzbek-man-business-smiling-260nw-2647475067.jpg"
                   alt="O'zbek foydalanuvchi 3"
                   className="w-8 h-8 rounded-full border-2 border-pink-500 object-cover"
                 />
               </div>
-              <span>{stats.users}+ faol foydalanuvchi</span>
+              <span>{stats.users}+ faoll foydalanuvchi</span>
             </div>
           </div>
         </div>
